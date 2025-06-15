@@ -1,6 +1,4 @@
 # ServerClientPython
-# ServerClientPython
-# ServerClientPython
 
 A simple Python socket-based client-server application that demonstrates basic TCP communication.
 
